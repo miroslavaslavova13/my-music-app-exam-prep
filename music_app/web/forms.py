@@ -91,7 +91,7 @@ class AlbumEditForm(AlbumBaseForm):
 class AlbumDeleteForm(AlbumBaseForm):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
-        self.__set_disabed_fields()
+        self.__set_disabled_fields()
 
     def save(self, commit=True):
         if commit:
@@ -100,6 +100,6 @@ class AlbumDeleteForm(AlbumBaseForm):
 
     def __set_disabled_fields(self):
         for _, field in self.fields.items():
-            field.widget.attr['readonly'] = 'readonly'
+            field.widget.attrs['readonly'] = 'readonly'
 
 

@@ -2,21 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c9eff99-c03d-465e-8042-1fde8c7af4bd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/music_app/web/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_app/web/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_app/web/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_app/web/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_app/web/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_app/web/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_app/web/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_app/web/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_app/web/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/add-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/add-album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/album-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/album-details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/delete-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/delete-album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/albums/edit-album.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/albums/edit-album.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/core/home-no-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/core/home-no-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/core/home-with-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/core/home-with-profile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profiles/profile-delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profiles/profile-delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/profiles/profile-details.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/profiles/profile-details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music_app/web/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_app/web/forms.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,19 +32,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
-  },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
-    ]
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Miroslava S\SOFTUNI\python web basics september 2022\My music app - Exam preparation\music_app\templates\profiles" />
@@ -74,7 +53,6 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
-        <env name="DJANGO_SETTINGS_MODULE" value="music_app.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -102,6 +80,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666726078414</updated>
       <workItem from="1666726101365" duration="20098000" />
+      <workItem from="1666810577881" duration="648000" />
     </task>
     <servers />
   </component>
@@ -118,5 +97,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
